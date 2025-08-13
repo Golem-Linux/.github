@@ -4,7 +4,7 @@ Linux distro based upon [Void Linux](https://voidlinux.org/) with [https://busyb
 ## Software
 List of packages for specific usecases by default
 
-| User case | Software              |
+| Use case | Software              |
 |-----------|-----------------------|
 | Bootloader| [limine](https://github.com/limine-bootloader/limine)|
 | User land | [busybox](https://busybox.net/)|
