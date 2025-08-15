@@ -9,7 +9,7 @@ List of packages for specific usecases by default
 | Bootloader| [limine](https://github.com/limine-bootloader/limine)|
 | User land | [busybox](https://busybox.net/)|
 | Kernel    | [linux-mainline](https://www.kernel.org/) |
-| Network   | [iwd](https://archive.kernel.org/oldwiki/iwd.wiki.kernel.org/) [openresolv](https://roy.marples.name/projects/openresolv) [dhcpcd](https://roy.marples.name/projects/dhcpcd)|
+| Network   | [iwd](https://archive.kernel.org/oldwiki/iwd.wiki.kernel.org/) [openresolv](https://roy.marples.name/projects/openresolv)|
 | Shell     | [yash](https://magicant.github.io/yash/)|
 | Init      | [runit](https://smarden.org/runit/)|
 | Libc      | [glibc](https://www.gnu.org/software/libc/)|
